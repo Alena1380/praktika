@@ -15,7 +15,7 @@
 Проект и exe файл доступны по ссылкам:
 
 #exe
-[https://drive.google.com/drive/folders/1LXKKBPI7DBZbfUXl_FyFAG5JIZnKgGRg?usp=sharing](https://drive.google.com/file/d/19ICec-feRW-mtF3oX1Z0O5glm_u83n0T/view?usp=sharing)             
+https://drive.google.com/file/d/1ZsrxTffq4KrKilwMzMil0XeGyWba5eKT/view?usp=sharing       
 
 #Project
-https://drive.google.com/file/d/1TU2AIgfVInAlYV4xmzUmcccASWzplGY9/view?usp=sharing
+https://drive.google.com/file/d/1peqOjrpQnFnseLBsJ-O0oVdr-RM8fkWP/view?usp=sharing
